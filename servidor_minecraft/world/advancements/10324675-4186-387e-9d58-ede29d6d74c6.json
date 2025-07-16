@@ -1,0 +1,57 @@
+{
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-07-16 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-16 00:38:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-16 00:38:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-07-16 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/general/fire_place": {
+    "criteria": {
+      "has_logs": "2025-07-16 00:38:19 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2025-07-16 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-16 00:38:19 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2025-07-16 00:37:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle": "2025-07-16 00:37:56 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
