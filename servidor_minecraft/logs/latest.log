@@ -1459,3 +1459,17 @@ Caused by: java.lang.ClassNotFoundException: mcp.mobius.waila.api.ui.IElement
 [17Jul2025 16:32:48.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol has made the advancement [Knowledge raises the soul]
 [17Jul2025 16:33:36.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Le_Pol lost connection: Disconnected
 [17Jul2025 16:33:36.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol left the game
+[17Jul2025 17:09:50.764] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SupportStructures
+[17Jul2025 17:09:50.766] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[17Jul2025 17:09:50.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[17Jul2025 17:09:50.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[17Jul2025 17:09:50.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[17Jul2025 17:09:51.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17Jul2025 17:09:51.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17Jul2025 17:09:51.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[17Jul2025 17:09:51.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17Jul2025 17:09:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17Jul2025 17:09:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17Jul2025 17:09:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[17Jul2025 17:09:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17Jul2025 17:09:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
