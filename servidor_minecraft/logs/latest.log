@@ -1387,3 +1387,75 @@ Caused by: java.lang.ClassNotFoundException: mcp.mobius.waila.api.ui.IElement
 [17Jul2025 16:19:42.239] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=-63, y=77, z=235}
 [17Jul2025 16:19:42.239] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
 [17Jul2025 16:19:42.239] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=-57, y=78, z=228}
+[17Jul2025 16:22:44.220] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosjcr lost connection: Disconnected
+[17Jul2025 16:22:44.221] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr left the game
+[17Jul2025 16:24:25.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol is bleeding. Le_Pol was struck by lightning
+[17Jul2025 16:24:25.971] [Server thread/WARN] [tombstone/]: The death event of the player Le_Pol was canceled by another mod
+[17Jul2025 16:24:25.972] [Server thread/INFO] [tombstone/]: The player Le_Pol has successfully been saved
+[17Jul2025 16:24:36.144] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol was struck by lightning
+[17Jul2025 16:24:52.971] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@131e9aa0
+[17Jul2025 16:24:52.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosjcr[/127.167.112.184:38787] logged in with entity id 11888 at (-8.609578007949542, 64.0, 33.75727274336443)
+[17Jul2025 16:24:52.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr joined the game
+[17Jul2025 16:24:53.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[17Jul2025 16:25:28.677] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:28.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=239, y=64, z=148}
+[17Jul2025 16:25:28.677] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:28.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=225, y=64, z=144}
+[17Jul2025 16:25:28.677] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:28.677] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=224, y=64, z=149}
+[17Jul2025 16:25:28.678] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:28.678] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=234, y=64, z=155}
+[17Jul2025 16:25:28.678] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:28.678] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=229, y=64, z=150}
+[17Jul2025 16:25:28.678] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:28.678] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=226, y=64, z=154}
+[17Jul2025 16:25:44.075] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol is bleeding. Le_Pol was struck by lightning whilst fighting Skeleton
+[17Jul2025 16:25:44.075] [Server thread/WARN] [tombstone/]: The death event of the player Le_Pol was canceled by another mod
+[17Jul2025 16:25:44.077] [Server thread/INFO] [tombstone/]: The player Le_Pol has successfully been saved
+[17Jul2025 16:25:50.821] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:50.821] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=-128, y=70, z=240}
+[17Jul2025 16:25:50.921] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:50.922] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=-79, y=71, z=240}
+[17Jul2025 16:25:50.937] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol walked into fire whilst fighting Skeleton
+[17Jul2025 16:25:51.569] [Server thread/INFO] [tombstone/]: The player Le_Pol has successfully been saved
+[17Jul2025 16:25:52.073] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:25:52.073] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=-131, y=72, z=241}
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=236, y=64, z=171}
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=233, y=64, z=161}
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=229, y=64, z=165}
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.272] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=237, y=64, z=161}
+[17Jul2025 16:26:29.321] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=237, y=68, z=183}
+[17Jul2025 16:26:29.321] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=228, y=67, z=186}
+[17Jul2025 16:26:29.321] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.321] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=227, y=60, z=178}
+[17Jul2025 16:26:29.322] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.322] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=227, y=65, z=201}
+[17Jul2025 16:26:29.324] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id dynamictrees:tile_entity_species
+[17Jul2025 16:26:29.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{dynamictrees:rooty_grass_block} but failed at location BlockPos{x=231, y=69, z=227}
+[17Jul2025 16:27:25.478] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr is bleeding. carlosjcr was blown up by Creeper
+[17Jul2025 16:27:25.479] [Server thread/WARN] [tombstone/]: The death event of the player carlosjcr was canceled by another mod
+[17Jul2025 16:27:25.483] [Server thread/INFO] [tombstone/]: The player carlosjcr has successfully been saved
+[17Jul2025 16:28:25.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr was blown up by Creeper
+[17Jul2025 16:29:08.272] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosjcr lost connection: Timed out
+[17Jul2025 16:29:08.272] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr left the game
+[17Jul2025 16:29:17.172] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol is bleeding. Le_Pol withered away whilst fighting Zombie
+[17Jul2025 16:29:17.172] [Server thread/WARN] [tombstone/]: The death event of the player Le_Pol was canceled by another mod
+[17Jul2025 16:29:17.172] [Server thread/INFO] [tombstone/]: The player Le_Pol has successfully been saved
+[17Jul2025 16:29:23.277] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol withered away whilst fighting Zombie
+[17Jul2025 16:32:21.173] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4c258d3e
+[17Jul2025 16:32:21.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: carlosjcr[/127.167.112.184:36285] logged in with entity id 14260 at (19.444842946006677, 59.711140789829756, 44.36442992754763)
+[17Jul2025 16:32:21.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr joined the game
+[17Jul2025 16:32:32.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol has made the advancement [Knowledge of Death]
+[17Jul2025 16:32:32.978] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol has made the advancement [A Strange Grave Dust]
+[17Jul2025 16:32:43.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: carlosjcr lost connection: Disconnected
+[17Jul2025 16:32:43.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: carlosjcr left the game
+[17Jul2025 16:32:48.719] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[17Jul2025 16:32:48.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol has made the advancement [Knowledge raises the soul]
+[17Jul2025 16:33:36.019] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Le_Pol lost connection: Disconnected
+[17Jul2025 16:33:36.019] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Le_Pol left the game
